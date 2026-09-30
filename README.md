@@ -2,7 +2,7 @@
 
 # Práctica 1: Diseño de controladores
 
-## Información deL estudiante
+## Información del estudiante
 
 Diego Perez Garcia \[23212635]; l23212635@tectijuana.edu.mx
 
